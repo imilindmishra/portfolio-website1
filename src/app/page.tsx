@@ -365,7 +365,7 @@ export default function Home() {
             </li>
           </ul>
           <span className="xp-when mono">
-            July 2025 — Present
+            July 2025 — Sept 2025
             <br />
             Remote
           </span>
