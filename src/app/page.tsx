@@ -180,12 +180,9 @@ export default function Home() {
         <div className="hero-glow g2" />
 
         <div className="wrap hero-meta mono">
-          <span>
-            <span className="dot-live" />
-            Available — June 2026
-          </span>
-          <span>Chennai / Remote, India</span>
-          <span>Portfolio, Vol. 01</span>
+          
+          <span>Bangalore / Remote, India</span>
+          
         </div>
 
         <div className="wrap hero-stage">
@@ -219,7 +216,7 @@ export default function Home() {
           <span className="scroll-hint">
             <span className="arrow">↓</span> Scroll
           </span>
-          <span>EST. 2003 — SHIPPING SINCE 2022</span>
+          <span> SHIPPING SINCE 2022</span>
         </div>
       </header>
 
